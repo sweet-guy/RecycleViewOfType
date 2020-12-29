@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BaseQuickAdapter-master-RecycleViewOfType.iml" filepath="$PROJECT_DIR$/.idea/modules/BaseQuickAdapter-master-RecycleViewOfType.iml" group="RecycleViewOfType" />
+      <module fileurl="file://$PROJECT_DIR$/RecycleViewOfType.iml" filepath="$PROJECT_DIR$/RecycleViewOfType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/RecycleViewOfType-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/RecycleViewOfType-app.iml" group="RecycleViewOfType/app" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>
