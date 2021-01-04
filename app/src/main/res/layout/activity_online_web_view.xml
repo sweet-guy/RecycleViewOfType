@@ -5,8 +5,9 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context="com.wdcloud.recycleviewoftype.OnlineWebView">
-    <WebView
-        android:id="@+id/web"
+    <LinearLayout
+        android:id="@+id/agent_parent"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"></WebView>
+        android:layout_height="match_parent"
+        android:orientation="vertical"/>
 </RelativeLayout>
